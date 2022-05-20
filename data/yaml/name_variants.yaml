@@ -4216,6 +4216,8 @@
   - {first: Antonio Jimeno, last: Yepes}
   - {first: Antonio José, last: Jimeno Yepes}
   - {first: Antonio, last: Jimeno-Yepes}
+- canonical: {first: Carlos E., last: Jimenez}
+  id: carlos-e-jimenez
 - canonical: {first: M. Dolores, last: Jiménez-López}
   variants:
   - {first: Maria Dolores, last: Jiménez-López}
